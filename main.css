@@ -1017,6 +1017,14 @@ label {
 
 /* BOTÕES */
 
+.jl-cursor-pointer {
+	cursor: pointer;
+}
+
+.jl-text-decoration-none {
+	text-decoration: none;
+}
+
 .jl-btn {
 	display: table;
 	text-align: center;
